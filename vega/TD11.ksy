@@ -31,7 +31,6 @@ types:
       type: u1
     - id: raw_cause
       type: u1
-      enum: name_status
     - id: raw_input_status
       type: u1
     instances:
