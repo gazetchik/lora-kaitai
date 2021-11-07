@@ -60,11 +60,3 @@ types:
     seq:
     - id: raw_unixtime
       type: u4le
-enums:
-  name_status:
-    0: time
-    1: alarm
-    2: open
-    3: holl1
-    4: holl2
-    5: temp_limit
